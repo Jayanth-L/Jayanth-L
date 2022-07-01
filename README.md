@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayanth-l&label=Profile%20views&color=0e75b6&style=flat" alt="jayanth-l" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayanth-l" alt="jayanth-l" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayanth-l" alt="jayanth-l" /></a> </p> -->
 
 - 🔭 I’m currently working on [thefond.co flutter app](thefond.co)
 
